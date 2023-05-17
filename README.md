@@ -1,16 +1,74 @@
-### Hi there 👋
+Nirav Parmar
+Full Stack Developer
+niravparmar.github.io | niravparmarcs@gmail.com | github | linkedin | instagram | +1 (647)616-8954
 
-<!--
-**MadhaviPatel/MadhaviPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✏️ Skills & Highlights
+SKILLS
 
-Here are some ideas to get you started:
+JavaScript, C++, Python, HTML5, CSS3, Solidity, TypeScript
+Node.js, React.js, Redux, jQuery, Express.js, Next.js, Flask
+MySQL, MongoDB, Firebase, NoSQL, Apache Kafka
+AdobeXD, Docker, Kubernetes, Keycloak, AWS (EC2, Elastic Beanstalk, Lambda, RDS, Route53, S3, CodePipeline, API Gateway, SES)
+Personal Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fully fluent in English and Hindi
+Excellent ability to communicate ideas across different cultures and people
+Excell in team enviroments in all capacities
+Enjoy finding ways to teach and share new skills in a way that adapts to each individual
+Always passionate for learning
+💻 Experience
+Full Stack Developer | Kavida.ai | July 2021 - December 2021
+
+Flask, MongoDB, React.js, Node.js, AWS, Hotjar, Figma
+
+Designed and developed a responsive front-end application using Material UI, React.js, Redux, and various third-party api’s including maps and chart.js.
+Integrated Keycloak for authentication and RESTful APIs to ensure seamless functionality and user experience.
+Built the backend for Kavida.ai from scratch using Node.js, Flask and MongoDB, utilizing a microservices architecture to improve efficiency and scalability.
+Reduced server costs by 90% through the use of AWS Lambda, API Gateway S3, CodePipeline, Kubernetes, Docker optimizing resources and maximizing cost-effectiveness.
+Created data pipelines using Kafka, resulting in a 300% improvement in the efficiency of big data scraping and storage processes.
+Provided end-to-end software engineering support to ensure the successful build and deployment of Kavida.ai's platform.
+Backend R&D Engineer | Thermelgy, Chennai, India | May 2021 - November 2021
+
+Python, Node.js, AWS, GCP, React.js
+
+Built the backend using Node.js (Express.js) and Python (Flask), creating cron jobs for data backup and report generation.
+Utilized MySQL and MongoDB for data storage, while integrating Kafka to gather continuous data from IOT devices.
+Enabled mobile-based notifications using Firebase, providing real-time updates to clients and teams.
+Participated in daily client and team communication to gather requirements and provide technical expertise.
+Conducted research on the efficient integration of the product with IOT devices.
+Ensured code readability and adherence to industry standards by maintaining code quality and commenting.
+Contributed to all stages of the development life cycle, collaborating with architects to adhere to architectural guidelines and make product architectural decisions.
+Participated in continuous improvement of the product by seeking out and incorporating feedback from clients and team members.
+Project Associate | ICSR, IIT Madras | August 2020 - February 2021
+
+Python, NodeJS, ReactJS, AWS, GCP
+
+Develop and implement a machine learning and AI platform for energy audits across various industries.
+Gather and store detailed data from energy auditors into a MongoDB database.
+Create machine learning models to analyze and understand the flow of data.
+Build AI-based prediction mechanisms to provide forecasted suggestions for future data entries with the accuracy of 99%.
+Reduce human effort by automating the energy audit process.
+Continuously monitor and improve the performance of the platform.
+Collaborate with cross-functional teams to ensure the platform meets the needs of energy auditors.
+Full Stack Developer | Bot2Do Technologies, Chennai, India | December 2018 - August 2020
+
+Programmed several Web applications in order to improve design and restructure code using React, and Node.js.
+Played a key role in the design & implementation of low-latency, high-availability and high-performance applications.
+Successfully designed pragmatic solutions by deploying expertise in data structures, design patterns, and algorithms to design.
+Conducted research to develop complex solutions and validated all user input before back-end submission
+Directed all-round development and coding of client-side logic within multiple browser environments
+Large-scale enterprise projects worth $45m by fulfilling strict quality standards and deploying best practices
+🎓 Education
+Blockchain Development Program (Graduate Certificate) | George Brown College, Toronto, Canada | September 2022 - August 2023
+
+Relevant Courses:
+Practical Blockchain | Smart Contract Development Essentials | Full Stack Blockchain Integration | Business and Software Design Patterns | Advanced Blockchain Topics | Enterprise Blockchain Development
+Artificial Intelligence Analysis, Design and Implementation (Graduate Certificate) | Durham College, Oshawa, Canada | January 2022 - August 2022
+
+Relevant Courses:
+Supervised, unsupervised and reinforcement machine learning techniques | Visualisation and Data Storytelling | Introduction of Neural Networks and Deep Learning models | Applied Mathematics for AI Systems | Linear Algebra, Statistics and Probability
+Bachelor’s in Computer Engineering | Gujarat Technological University, Ahmedabad, India | August 2015 - June 2019
+
+Relevant Courses:
+Artificial Intelligence Data Mining and Business Intelligence | Information and Network Security | Software Engineering | System Programming | Vector Calculus & Linear Algebra
+
