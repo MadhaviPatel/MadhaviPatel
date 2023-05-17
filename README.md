@@ -1,74 +1,95 @@
-Nirav Parmar
-Full Stack Developer
-niravparmar.github.io | niravparmarcs@gmail.com | github | linkedin | instagram | +1 (647)616-8954
+# ![](#)  Madhavi Patel
+### Full Stack Developer 
+>  [patelmadhavia2698@gmail.com](mailto:patelmadhavia2698@gmail.com) |
+[github](https://github.com/MadhaviPatel) |
+[linkedin](https://www.linkedin.com/in/patel-madhavi) |
+[instagram](https://instagram.com/patel_madhu_) |
+[+1 (437)981-8735](tel:+4379818735)
 
-✏️ Skills & Highlights
-SKILLS
+## :pencil2: Skills & Highlights
+* __SKILLS__
+    * Languages - Java ,Python,  JavaScript , C,C++ ,HTML, Angular,React, Node , Vue 3 
+    * Framework : Flask, Django, Spring MVC, Spring Boot ,Scikit Learn, TensorFlow, PyTorch , JavaServer Faces (JSF) 
+    * Methodologies :Agile , Scrum ,DevOps, Waterfall , CI/CD , Test Driven Development
+    * Database : MySQL,  PostgreSQL, MongoDB 
+    * Web Services : RESTFUL Web Services, AWS, Microservices
+    * Developer Tools :JIRA, Postman, Microsoft Visual Studio Code, GitHub, Maven, Junit, Docker, Kubernetes, PyCharm, Eclipse, GIT
 
-JavaScript, C++, Python, HTML5, CSS3, Solidity, TypeScript
-Node.js, React.js, Redux, jQuery, Express.js, Next.js, Flask
-MySQL, MongoDB, Firebase, NoSQL, Apache Kafka
-AdobeXD, Docker, Kubernetes, Keycloak, AWS (EC2, Elastic Beanstalk, Lambda, RDS, Route53, S3, CodePipeline, API Gateway, SES)
-Personal Highlights
+* __Key Highlights__
+  * Utilized Core Java features, including multi-threading, concurrency, file handling I/O, generics, and 
+    data structures, to develop high-performance software applications. Additionally, created visually 
+    appealing user interfaces using Spring MVC framework, JSP, JSTL, HTML5, CSS3, JavaScript, 
+    jQuery, and AJAX.
+  * Designed and developed a responsive web application using Angular, HTML5, and CSS3 for the 
+    front-end, and Node.js and MongoDB for the back-end.
+  * Skilled in integrating Vue.js with backend APIs and services.
+  * Familiarity with Vue Router for client-side routing and Vue CLI for project setup and scaffolding.
 
-Fully fluent in English and Hindi
-Excellent ability to communicate ideas across different cultures and people
-Excell in team enviroments in all capacities
-Enjoy finding ways to teach and share new skills in a way that adapts to each individual
-Always passionate for learning
-💻 Experience
-Full Stack Developer | Kavida.ai | July 2021 - December 2021
+## :computer: Experience
+**Full Stack Developer**
+| Matrix Exit | _February 2023 - Currently_
 
-Flask, MongoDB, React.js, Node.js, AWS, Hotjar, Figma
+`Vue.Js , Rest APIS, Composition APIs , AWS , E-Commerce, Vue 3`
+>*  I am responsible for designing and implementing front-end solutions utilizing the Vue.js framework. 
+>*  Utilizing the AWS platform to deploy, manage, and scale the application. I had hands-on experience with   
+    services like Amazon S3, EC2, and Lambda to build and run the application with high availability and   
+    reliability.
+>*  Working with REST APIs, I am able to retrieve and display product information and customer data, as 
+    as well as facilitate seamless interactions between the front-end and back-end systems.
+>*  Developed web applications with a team of developers by combining HTML, CSS, JavaScript and further aiding with the integration of   
+    the back-end data layer. 
+>* Implemented complex state management logic for user authentication, user roles and permissions, and data filtering.
+>*  I've also worked with Composition API to better organize my code and take advantage of Vue 3's new  
+    capabilities, allowing me to create more modular and maintainable code.
 
-Designed and developed a responsive front-end application using Material UI, React.js, Redux, and various third-party api’s including maps and chart.js.
-Integrated Keycloak for authentication and RESTful APIs to ensure seamless functionality and user experience.
-Built the backend for Kavida.ai from scratch using Node.js, Flask and MongoDB, utilizing a microservices architecture to improve efficiency and scalability.
-Reduced server costs by 90% through the use of AWS Lambda, API Gateway S3, CodePipeline, Kubernetes, Docker optimizing resources and maximizing cost-effectiveness.
-Created data pipelines using Kafka, resulting in a 300% improvement in the efficiency of big data scraping and storage processes.
-Provided end-to-end software engineering support to ensure the successful build and deployment of Kavida.ai's platform.
-Backend R&D Engineer | Thermelgy, Chennai, India | May 2021 - November 2021
+**Software Engineer**
+| Icreative Technologies | _November 2019 - March 2021_
 
-Python, Node.js, AWS, GCP, React.js
+`JAVA, J2EE, Spring Boot, Hibernate , Eclipse, SQL, J2EE, TypeScript, JavaScript, CSS3, HTML 5, 
+  Material UI, Angular, GIT, JDK, JIRA, Maven`
+>* Generated essential documentation and database designs for seamless project implementation.
+>*  Applied industry best practices to design, code, and perform thorough unit and integration testing. 
+   Demonstrated expertise in debugging and troubleshooting code-related issues and defects.
+>*  Application lifecycle and architectural patterns such as MVC, MVP, and MVVM were used in the   
+   development of the app, which reduced recumbency and improved product quality by 15%.
+>*  Developed high-quality solutions that meet client requirements and provide users with an incredible  
+   experience by implementing the material design guidelines and UX—UI design patterns, which led t 
+   25% increase in the number of users.
+>*  Collaborated with the team to establish the application's CI/CD pipeline using Jenkins, incorporating 
+   Maven scripts and deploying to Tomcat servers.
+>*  Closely collaborated with business analytics, user experience team, software development, and testing 
+   team members.
+>* Successfully designed pragmatic solutions by deploying expertise in data structures, design patterns, and 
+   algorithms to design.
+>* Participated in continuous improvement of the product by seeking out and incorporating feedback from clients and team members.
 
-Built the backend using Node.js (Express.js) and Python (Flask), creating cron jobs for data backup and report generation.
-Utilized MySQL and MongoDB for data storage, while integrating Kafka to gather continuous data from IOT devices.
-Enabled mobile-based notifications using Firebase, providing real-time updates to clients and teams.
-Participated in daily client and team communication to gather requirements and provide technical expertise.
-Conducted research on the efficient integration of the product with IOT devices.
-Ensured code readability and adherence to industry standards by maintaining code quality and commenting.
-Contributed to all stages of the development life cycle, collaborating with architects to adhere to architectural guidelines and make product architectural decisions.
-Participated in continuous improvement of the product by seeking out and incorporating feedback from clients and team members.
-Project Associate | ICSR, IIT Madras | August 2020 - February 2021
+**Software Engineer**
+| _Quixom Technology_ | _June 2019 - November 2019_
 
-Python, NodeJS, ReactJS, AWS, GCP
+`Java, jQuery, Ajax, Jason, SQL, AWS, JIRA, TypeScript`
+>* Created software applications for websites by analyzing requirements and adhering to industry technical 
+   standards during the design, development, and implementation phases
+>*  Under the direction of the team leader, maintained complex SQL queries, views, and stored procedures in 
+    a database environment.
+>*  Spearheaded the application development lifecycle , delivering products on time , and gained profit 
+    9-10% of the allocated budget.
+>*  Created SOAP Web Services using WSDL, XML and SOAP for transferring data.
+>*  Java code development for backend business logic, interfacing with oracle database using JDBC and 
+   SQL, parsing and processing XML documents.
+>*  User interface enhancements to integrate jQuery, Ajax, and Json to improve functionality.
+>*  Used JIRA tool for Issue/bug tracking, monitoring of work assignment in the system
 
-Develop and implement a machine learning and AI platform for energy audits across various industries.
-Gather and store detailed data from energy auditors into a MongoDB database.
-Create machine learning models to analyze and understand the flow of data.
-Build AI-based prediction mechanisms to provide forecasted suggestions for future data entries with the accuracy of 99%.
-Reduce human effort by automating the energy audit process.
-Continuously monitor and improve the performance of the platform.
-Collaborate with cross-functional teams to ensure the platform meets the needs of energy auditors.
-Full Stack Developer | Bot2Do Technologies, Chennai, India | December 2018 - August 2020
 
-Programmed several Web applications in order to improve design and restructure code using React, and Node.js.
-Played a key role in the design & implementation of low-latency, high-availability and high-performance applications.
-Successfully designed pragmatic solutions by deploying expertise in data structures, design patterns, and algorithms to design.
-Conducted research to develop complex solutions and validated all user input before back-end submission
-Directed all-round development and coding of client-side logic within multiple browser environments
-Large-scale enterprise projects worth $45m by fulfilling strict quality standards and deploying best practices
-🎓 Education
-Blockchain Development Program (Graduate Certificate) | George Brown College, Toronto, Canada | September 2022 - August 2023
 
-Relevant Courses:
-Practical Blockchain | Smart Contract Development Essentials | Full Stack Blockchain Integration | Business and Software Design Patterns | Advanced Blockchain Topics | Enterprise Blockchain Development
-Artificial Intelligence Analysis, Design and Implementation (Graduate Certificate) | Durham College, Oshawa, Canada | January 2022 - August 2022
+## :mortar_board: Education
+**Master in computer science**
+| _Lakehead University,Thunderbay, Canada_ | _May 2021 - December 2022_
 
-Relevant Courses:
-Supervised, unsupervised and reinforcement machine learning techniques | Visualisation and Data Storytelling | Introduction of Neural Networks and Deep Learning models | Applied Mathematics for AI Systems | Linear Algebra, Statistics and Probability
-Bachelor’s in Computer Engineering | Gujarat Technological University, Ahmedabad, India | August 2015 - June 2019
+>* **Relevant Courses:** 
+ >* Artificial Intelligence | Machine Learning | Cloud Computing | Computer vision | Computer networks and Security | Natural Language Processing
 
-Relevant Courses:
-Artificial Intelligence Data Mining and Business Intelligence | Information and Network Security | Software Engineering | System Programming | Vector Calculus & Linear Algebra
+**Bachelor’s in Computer Engineering**
+| _Gujarat Technological University, Ahmedabad, India_ | _August 2015 - June 2019_
 
+>* **Relevant Courses:**
+>* Artificial Intelligence Data Mining and Business Intelligence | Java | Software Engineering | System Programming | Vector Calculus & Linear Algebra | Database Systems and Design
